@@ -1,0 +1,11 @@
+!pip install Pillow==9.1.0
+
+!pip install tensorflow==2.12.0
+
+!unzip /content/converted_keras.zip
+
+!pip install keras==2.12.0
+
+!pip install discord
+!pip install discord.ext
+!pip install dotenv
